@@ -1,0 +1,13 @@
+body {
+    background-color: #2b2b2b;
+    color: #f2f2f2;
+}
+a {
+    color: #7ec8ff;
+    padding: 10px 15px;
+    background-color: #3a3a3a;
+    border-radius: 8px;
+}
+li {
+    margin-bottom: 25px;
+}
